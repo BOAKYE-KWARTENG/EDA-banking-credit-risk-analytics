@@ -36,3 +36,23 @@ What possible ways can borrower and loan information be turned into actionable i
 **Borrower Segmentation:** Applied K-Means clustering to group borrowers into distinct financial risk segments based on income, loan amount, and debt-to-income ratio. Principal Component Analysis (PCA) was further used to visualize borrower clusters in two-dimensional space.
 
 **Data Visualization and Storytelling:** Developed professional charts, tables, and cluster visualizations to communicate key insights, default patterns, and borrower risk behaviour in a clear and business-focused manner.
+
+
+## Skills:
+* Exploratory Data Analysis (EDA)
+* Credit Risk Analysis
+* Business & Data Analysis
+* Data Cleaning & Preparation
+* Data Visualization & Storytelling
+* Statistical & Correlation Analysis
+* Borrower Risk Profiling
+* Customer Segmentation Analysis
+* Feature Engineering
+* K-Means Clustering
+* Principal Component Analysis (PCA)
+* Risk-Based Decision Support
+* Financial Data Interpretation
+* Insight Generation & Business Recommendations
+* Python for Data Analytics
+* Pandas, Seaborn, Matplotlib & Scikit-learn
+* Analytical Thinking & Problem Solving
