@@ -56,3 +56,27 @@ What possible ways can borrower and loan information be turned into actionable i
 * Python for Data Analytics
 * Pandas, Seaborn, Matplotlib & Scikit-learn
 * Analytical Thinking & Problem Solving
+
+
+
+
+## Results & Business Recommendation:
+Running Credit Risk Analytics EDA gave the Bank a much-needed understanding of borrower behaviour, loan performance and trends of loan defaults on the entire lending portfolio. This project allowed the identification of high-risk borrower profiles, risky loan categories and financial attributes most significant for loan default through statistical analysis and borrower segmentation, as well as visualizations created in Python.
+
+The analysis showed that borrowers who had high loan burdens, failed loans in the past, and poor loan grades had high default risk. The default rates for Loan Grades D–G were significantly higher, with Loan Grade G having a default rate of 98.44%; borrowers who had defaulted on previous loans were almost twice as likely to default on the current loan as borrowers who did not have a previous default.
+
+It also revealed that those who were renters had significantly higher rates of default when compared to those who owned homes, and that loans for debt consolidation and medical expenses had a higher risk of default than education or venture-related loans. Demographic characteristics like gender, marital status, education and country, did not have a significant effect on default behaviour, indicating that **financial and credit-related factors play a more important role in the default outcome than personal demographics.**
+
+Borrower segmentation with K-Means clustering also identified other segments of low-, medium-, and high-risk borrowers, which helped to distinguish financially stable borrowers from financially stressed segments.
+
+These results will help the Bank to improve its risk assessment and pricing of the loans, by reducing credit exposure for lower loan grades, higher debt-to-income borrowers, and borrowers who have had a prior default. By applying specific risk monitoring and early warning systems, and lending more individually to high-risk borrower categories, exposure to default risk could be mitigated without compromising access to credit based on data.
+
+
+
+## Next Steps & Future Enhancements:
+*	Develop a predictive machine learning model to estimate the probability of loan default using classification algorithms such as Logistic Regression, Random Forest, and XGBoost.
+*	Build an interactive Power BI or Tableau dashboard to enable stakeholders to monitor borrower risk, loan performance, and default trends in real time.
+*	Perform time-series and trend analysis to monitor how economic conditions and borrower behavior affect default rates over time.
+*	Develop an early warning risk monitoring system that flags high-risk borrowers before default occurs.
+*	Deploy the project as a web-based analytics application using tools such as Django, or Flask to support interactive business reporting and decision-making.
+
