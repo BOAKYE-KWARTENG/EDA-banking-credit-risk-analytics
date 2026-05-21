@@ -1,6 +1,13 @@
 # EDA Banking Credit Risk Analytics
 Exploratory Data Analysis on banking credit risk, borrower segmentation, loan default patterns, and lending insights using Python (Pandas, Seaborn, and Machine Learning clustering techniques).
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Loan-Amount-Distribution-by-Default-Status.png" 
+    width="85%" 
+    alt="Loan Amount Distribution by Default Status"
+  >
+</p>
 
 ## Executive Summary:
 The dilemma that financial institutions continuously have to address is how to make loans available while managing credit risk. For this analysis, I performed Exploratory Data Analysis (EDA) on borrower and loan information to identify patterns related to loan default risk and financial behaviour of the borrowers for a Bank. I examined the attributes of borrowers, financial measures, credit history, loan characteristics, and repayment results using Python (Pandas, Seaborn, and Scikit-learn).
