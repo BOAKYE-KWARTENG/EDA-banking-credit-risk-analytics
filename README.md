@@ -16,7 +16,39 @@ The results showed that borrowers with worse loan grades, higher debt-to-income 
 
 Based on these findings, I proposed to the Bank to improve the credit risk assessment of debt exposure, loan grading and previous default activity, in order to make safer, more informed lending decisions, and to introduce targeted monitoring strategies for high-risk borrower segments to aid risk assessment.
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Number-of-Loans-by-Loan-Grade.png" 
+    width="85%" 
+    alt="Number of Loans by Loan Grade"
+  >
+</p>
 
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Default-Rate-by-Loan-Grade.png" 
+    width="85%" 
+    alt="Default Rate by Loan Grade"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Debt-to-Income-Ratio-by-Default-Status.png" 
+    width="85%" 
+    alt="Debt to Income Ratio by Default Status"
+  >
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Distribution-of-Loan-Default-Status.png" 
+    width="85%" 
+    alt="Distribution of Loan Default Status"
+  >
+</p>
 
 ## Business Problem:
 A financial institution that offers personal and medical loans, education loans and business loans was always challenged to offer loans that are accessible while effectively managing credit risk. The bank had no idea which borrower types, loan products and financial tendencies were linked to the risk of loan default, and it had no visibility on the volume of borrowers in each of these types. If there is no deeper study of borrower income, debt exposure, credit history, loan grades, and repayment habits, high-risk loans might not be identified, resulting in greater financial losses and reduced lending choices. Meanwhile, strict lending standards may cut off the credit for what otherwise might be sound borrowers. 
