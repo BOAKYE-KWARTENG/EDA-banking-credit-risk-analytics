@@ -25,13 +25,7 @@ Based on these findings, I proposed to the Bank to improve the credit risk asses
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Default-Rate-by-Loan-Grade.png" 
-    width="85%" 
-    alt="Default Rate by Loan Grade"
-  >
-</p>
+
 
 <p align="center">
   <img 
@@ -110,6 +104,32 @@ Borrower segmentation with K-Means clustering also identified other segments of 
 
 These results will help the Bank to improve its risk assessment and pricing of the loans, by reducing credit exposure for lower loan grades, higher debt-to-income borrowers, and borrowers who have had a prior default. By applying specific risk monitoring and early warning systems, and lending more individually to high-risk borrower categories, exposure to default risk could be mitigated without compromising access to credit based on data.
 
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Default-Rate-by-Loan-Grade.png" 
+    width="85%" 
+    alt="Default Rate by Loan Grade"
+  >
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Loan-Amount-Distribution-by-Risk-Level.png" 
+    width="85%" 
+    alt="Loan Amount Distribution by Risk Level"
+  >
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/EDA-banking-credit-risk-analytics/main/Visualizations/Loan-Risk-Distributionby-Cluster.png" 
+    width="85%" 
+    alt="Loan Risk Distributionby Cluster"
+  >
+</p>
 
 
 ## Next Steps & Future Enhancements:
